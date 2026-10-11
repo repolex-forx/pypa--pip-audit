@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pypa/pip-audit/commit/828e77a4d4aa6bee8d315681db6928771d951a7c",
       "git:hexsha": "828e77a4d4aa6bee8d315681db6928771d951a7c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T01:17:13.165706+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pypa/pip-audit/commit/899fd662757268a0153b3a9c6244699cc9fa3a68",
